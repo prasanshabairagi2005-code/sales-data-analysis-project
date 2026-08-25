@@ -45,7 +45,6 @@ Main columns include:
 
 ## Data Cleaning
 
-- Converted date columns to datetime format
 - Checked missing values
 - Filled missing Postal Codes
 - Verified duplicate records
