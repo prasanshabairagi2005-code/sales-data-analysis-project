@@ -18,7 +18,7 @@ This project aims to answer the following business questions:
 
 ## Key Findings
 
-- **Technology**Technology generated the highest sales.
+- **Technology:** Technology generated the highest sales.
 - **Region:** The West region generated the highest sales.
 - **Monthly Trend:** November recorded the highest monthly sales.
 - **Product:** Canon imageCLASS 2200 Advanced Copier was the top-selling product.
@@ -65,6 +65,7 @@ Main columns include:
 
 - Checked missing values
 - Filled missing Postal Codes
+- Converted `Order Date` and `Ship Date` columns to datetime format for accurate date-based analysis.
 - Verified duplicate records
 
 ---
