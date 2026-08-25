@@ -5,6 +5,24 @@
 This project analyzes Superstore sales data using Python. The objective is to identify sales trends, top-performing categories, regions, products, and states to generate business insights.
 
 ---
+## Business Questions
+
+This project aims to answer the following business questions:
+
+1. Which product categories generate the highest sales?
+2. Which regions contribute the most to overall sales?
+3. How does sales performance vary over time?
+4. Which products are the top contributors to total sales?
+5. Which states have the highest sales performance?
+
+
+## Key Findings
+
+- **Technology**Technology generated the highest sales.
+- **Region:** The West region generated the highest sales.
+- **Monthly Trend:** November recorded the highest monthly sales.
+- **Product:** Canon imageCLASS 2200 Advanced Copier was the top-selling product.
+- **State:** California recorded the highest sales.
 
 ## Dataset Description
 
@@ -84,7 +102,6 @@ Main columns include:
 ```text
 sales-data-analysis-project/
 │
-├── dashboard/
 ├── data/
 │   ├── train.csv
 │   └── superstore_cleaned.csv
@@ -112,6 +129,8 @@ sales-data-analysis-project/
 
 ### Top 10 States
 ![Top 10 States](visuals/top_10_states.png)
+
+
 
 ## Author
 
